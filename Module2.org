@@ -1,0 +1,13 @@
+#+TITLE: Module2
+
+* Unit 2.1: Binary Numbers
+
+* Unit 2.2: Binary Addition
+** Half-adder: Adds 2 bits
+** Full-adder: Adds 3 bits
+** Adder: Adds 2 numbers
+
+* Unit 2.3: Negative Numbers
+** 2's Complement: 2^n - x = 1 + (2^n - 1) - x
+
+* Unit 2.4: Arithmetic Logic Unit
